@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+
+.boxt{
+  background-color: blue;
+  /*margin: 50px;*/
+
+
+  /*margin-top: 50px;*/
+  /*margin-bottom: 100px;*/
+  /*margin-left: 50px;*/
+  /*margin-right: 50px;*/
+
+  margin: 51px 10px 3px 28px;
+
+  opacity: 0,2;
+}
+
+.box2{
+    background-color: orange;
+}
